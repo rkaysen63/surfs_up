@@ -31,9 +31,9 @@ The proposed business, "Surf n' Shake", will be a surfboard shop that also serve
 </p>
 
 ### Temperature
-* The temperature distribution is symmetrical in both June and December.  In other words, the mean and median for each month are the same.  In June the mean/median is 75/75 deg F.  In December, the mean/median is 71/71 <sup>o</sup> F.  This implies that the island is not prone to extreme swings in temperature during those months.
-* The mean temperature in Dec, 71 deg F, is only 4 degrees lower than the mean temperature in June, 75 deg F.  This indicates that the island maintains a fairly consistent temperature throughout the year.
-* While the minimum temperature in December has dropped as low as 56 deg F, this occurs infrequently.  The mean temperature in December is 71 deg F with a standard deviation of 4 deg F, indicating that the temperatures in December tend to range between 67 deg F to 75 deg F.
+* The temperature distribution is symmetrical in both June and December.  In other words, the mean and median for each month are the same.  In June the mean/median is 75<sup>o</sup>F/75<sup>o</sup>F.  In December, the mean/median is 71<sup>o</sup>F/71<sup>o</sup>F.  This implies that the island is not prone to extreme swings in temperature during those months.
+* The mean temperature in Dec, 71<sup>o</sup>F, is only 4<sup>o</sup>F lower than the mean temperature in June, 75<sup>o</sup>F.  This indicates that the island maintains a fairly consistent temperature throughout the year.
+* While the minimum temperature in December has dropped as low as 56 <sup>o</sup>F, this occurs infrequently.  The mean temperature in December is 71<sup>o</sup>F with a standard deviation of 4<sup>o</sup>F, indicating that the temperatures in December tend to range between 67<sup>o</sup>F to 75<sup>o</sup>F.
 
 ### Precipitation
 
