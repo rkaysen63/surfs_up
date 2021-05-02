@@ -8,7 +8,7 @@
 * [Resources](https://github.com/rkaysen63/surfs_up/blob/master/README.md#resources)
 * [Results](https://github.com/rkaysen63/surfs_up/blob/master/README.md#results)
 * [Summary](https://github.com/rkaysen63/surfs_up/blob/master/README.md#summary)
-* 
+
 ## Overview:
 The proposed business, "Surf n' Shake", will be a surfboard shop that also serves ice cream on the Island of Oahu.  An investor is very interested in the proposed business but has concern that poor weather could undermine its success.  The purpose of this analysis is to analyze the island's weather data and to evaluate its potential impact on the business' success or failure. 
 
@@ -37,3 +37,5 @@ The proposed business, "Surf n' Shake", will be a surfboard shop that also serve
 
 ## Summary
 * Throughout the year, the Island of Oahu maintains consistent and pleasant temperatures that are desirable for outdoor activities.
+
+[Back to the Table of Contents](https://github.com/rkaysen63/surfs_up/blob/master/README.md#table-of-contents)
