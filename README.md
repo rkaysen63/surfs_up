@@ -20,20 +20,22 @@ The proposed business, "Surf n' Shake", will be a surfboard shop that also serve
 
 ## Results:
 ### June Summary Statistics
-<p align="center">
-  <img src="images/summary_stats_06.png" width="100">
+<p align="left">
+  <img src="images/summary_stats_06.png" width="200">
 </p>
+
+
 ### December Summary Statistics
-<p align="center">
+<p align="left">
   <img src="images/summary_stats_12.png" width="100">
 </p>
 
-* Temperature
-  * The temperature distribution is symmetrical in both June and December.  In other words, the mean and median for each month are the same.  In June the mean/median is 75/75 deg F.  In December, the mean/median is 71/71 deg F.  This implies that the island is not prone to extreme swings in temperature during those months.
-  * The mean temperature in Dec, 71 deg F, is only 4 degrees lower than the mean temperature in June, 75 deg F.  This indicates that the island maintains a fairly consistent temperature throughout the year.
-  * While the minimum temperature in December has dropped as low as 56 deg F, this occurs infrequently.  The mean temperature in December is 71 deg F with a standard deviation of 4 deg F, indicating that the temperatures in December tend to range between 67 deg F to 75 deg F.
+### Temperature
+* The temperature distribution is symmetrical in both June and December.  In other words, the mean and median for each month are the same.  In June the mean/median is 75/75 deg F.  In December, the mean/median is 71/71 <sup>o</sup> F.  This implies that the island is not prone to extreme swings in temperature during those months.
+* The mean temperature in Dec, 71 deg F, is only 4 degrees lower than the mean temperature in June, 75 deg F.  This indicates that the island maintains a fairly consistent temperature throughout the year.
+* While the minimum temperature in December has dropped as low as 56 deg F, this occurs infrequently.  The mean temperature in December is 71 deg F with a standard deviation of 4 deg F, indicating that the temperatures in December tend to range between 67 deg F to 75 deg F.
 
-* Precipitation
+### Precipitation
 
 ## Summary
 * Throughout the year, the Island of Oahu maintains consistent and pleasant temperatures that are desirable for outdoor activities.
