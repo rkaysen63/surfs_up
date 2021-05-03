@@ -1,6 +1,6 @@
 # surfs_up
 <p align="left">
-  <img src="images/2011_surfing.png" width="150">
+  <img src="images/2011_surfing.png" width="100">
 </p>
 
 ## Table of Contents
@@ -47,6 +47,11 @@
 <p align="left">
   <img src="images/summary_stats_prcp_12.png" width="175"> <img src="images/plot_prcp_12.png" width="300">
 </p>
+
+* The precipitation It appears that it rains daily on the Island of Oahu, but mediIn June the mean of 0.14" of rainfall is in the fourth quartile.  In December the mean of 0.22" is in the 4th quartile.  The median precipitation in both June and December is relatively light, however, spikes of 
+* Unlike the temperature distribution, the precipitation data is skewed right in June and December.  In June the mean of 0.14" of rainfall is in the fourth quartile.  In December the mean of 0.22" is in the 4th quartile.  
+* While the minimum temperature in December has dropped as low as 56 <sup>o</sup>F, this occurs infrequently.  The mean temperature in December is 71<sup>o</sup>F with a standard deviation of 4<sup>o</sup>F, indicating that the temperatures in December tend to range between 67<sup>o</sup>F to 75<sup>o</sup>F.
+
 
 ## Summary
 * Throughout the year, the Island of Oahu maintains consistent and pleasant temperatures that are desirable for outdoor activities.
