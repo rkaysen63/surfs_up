@@ -10,7 +10,7 @@
 * [Summary](https://github.com/rkaysen63/surfs_up/blob/master/README.md#summary)
 
 ## Overview:
-"Surf n' Shake" is a proposed business that will be located on the Island of Oahu.  Not only will the business sell and rent surfboards and related gear, it will ice cream, too.  A well-known surfer is very interesting in investing in "Surf n' Shake" but has expressed concern that poor weather could undermine the business' success.  The purpose of this analysis is to analyze the island's weather data and to evaluate its potential impact on Surf n' Shake's" success or failure. 
+"Surf n' Shake" is a proposed business that will be located on the Island of Oahu.  Not only will the business sell and rent surfboards and related gear, it will sell ice cream, too.  A well-known surfer is very interesting in investing in "Surf n' Shake" but has expressed concern that poor weather could undermine the business' success.  The purpose of this analysis is to analyze the island's weather data and to evaluate its potential impact on Surf n' Shake's" success or failure. 
 
 ## Resources 
 
