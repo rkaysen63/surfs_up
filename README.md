@@ -42,13 +42,7 @@
   * December's temperatures drop a little lower than June's, but the difference is still not that great.  The minimum temperature for December is 56<sup>o</sup>F, where as June's minimum is 8<sup>o</sup>F higher.  
 
 ## Summary
-Throughout the year, the Island of Oahu maintains consistent and pleasant temperatures from the low to mid 70's <sup>o</sup>F that are desirable by most for outdoor activities.  Temperature is not the only consideration.  An abundant amount of rain could have a devestating impact on a surfing business by discouraging all but the most dedicated surfers from hitting the beach. For this reason additional queries for June and December precipitation measurements were retrieved and statistics run.   
-
-* The results show that the precipitation is generally light with a smattering of heavier rainfall.  Median rainfall is 0.02" in June and 0.03" in December. 
-* The mean precipitation in both June and December is greater than the 3rd quartile, indicating that the data is skewed left.  This is because there are days where there is a large amount of rainfall, but it is the exception rather than the norm.
-* The scatter plot shows that there are few days with over 1 inch of rainfall in either June or December over seven years of data, fewer days with over 2 inches, and almost no days with greatere than 3" of rainfall.  
-
-Based on the weather analysis, the project has a good chance of success!  
+Throughout the year, the Island of Oahu maintains consistent and mild temperatures from the low to mid 70's <sup>o</sup>F that are desirable for most water sports.  Temperature is not the only consideration.  An abundant amount of rain could have a devestating impact on a surfing business by discouraging all but the most dedicated surfers from hitting the beach. For this reason additional queries for June and December precipitation measurements were retrieved and statistics run.  While large amounts of rainfall have been recorded the stats show that this is the exception rather than the rule.  Median rainfall is 0.02" in June and 0.03" in December. Based on this weather analysis, the proposed business on the Island of Oahu could be a success!
 
 ### Precipitation
 
@@ -62,10 +56,11 @@ Based on the weather analysis, the project has a good chance of success!
   <img src="images/summary_stats_prcp_12.png" width="175"> <img src="images/plot_prcp_12.png" width="300">
 </p>
 
-* Precipitation Analysis
-  * The precipitation It appears that it rains daily on the Island of Oahu, but mediIn June the mean of 0.14" of rainfall is in the fourth quartile.  In December the mean of 0.22" is in the 4th quartile.  The median precipitation in both June and December is relatively light, however, spikes of 
-  * Unlike the temperature distribution, the precipitation data is skewed right in June and December.  In June the mean of 0.14" of rainfall is in the fourth quartile.  In December the mean of 0.22" is in the 4th quartile.  
-  * While the minimum temperature in December has dropped as low as 56 <sup>o</sup>F, this occurs infrequently.  The mean temperature in December is 71<sup>o</sup>F with a standard deviation of 4<sup>o</sup>F, indicating that the temperatures in December tend to range between 67<sup>o</sup>F to 75<sup>o</sup>F.
+* **Analysis of Results - Precipitation*
+
+  * The results show that the precipitation is generally light with a smattering of heavier rainfall.  Median rainfall is 0.02" in June and 0.03" in December.
+  * Unlike the temperature distribution, the precipitation data is skewed right in June and December.  The mean precipitation in both June and December is greater than the 3rd quartile for those months.  This indicates that there are days with a large amount of rainfall, but those days are the exception rather than the rule.
+  * The scatter plot shows that there are few days with over 1 inch of rainfall in either June or December over seven years of data; fewer days with over 2 inches; and almost no days with greater than 3" of rainfall.  
 
 ## Code
 * **Code for making a connection to a database and reflecting that database**  
