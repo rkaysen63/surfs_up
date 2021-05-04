@@ -21,7 +21,7 @@
 
 ## Results:
 
-### Temperature
+### Temperature Observations
 
 ### June Temperatures - Summary Statistics
 <p align="left">
