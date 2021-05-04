@@ -130,21 +130,21 @@ Based on the weather analysis, the project has a good chance of success!
 
   * **Code for June's Summary Statistics for Precipitation and a Precipitation Plot**  
    The code for December's Summary Statistics for Precipitation follows the same pattern, but change the filter to `.filter(extract('month', Measurement.date) == 12)`.
-  
-       # Retrieve the precipitation data for June
-       june_results = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 6).order_by(Measurement.date.desc()).all()
-      
-       # Save query results as a Pandas DataFrame.
-       june_prcp_df = pd.DataFrame(june_results, columns=['date','precipitation'])
-      
-       # Calculate and print out the summary statistics for the June Precipitation DataFrame.
-       june_prcp_df.describe()
-      
-       # Set the index to the date column
-       june_prcp_df.set_index(june_prcp_df['date'], inplace=True)
+    
+        # Retrieve the precipitation data for June
+        june_results = session.query(Measurement.date, Measurement.prcp).filter(extract('month', Measurement.date) == 6).order_by(Measurement.date.desc()).all()
        
-       # Plot total precipitation per day in June.
-       june_prcp_df.plot(rot=90)
+        # Save query results as a Pandas DataFrame.
+        june_prcp_df = pd.DataFrame(june_results, columns=['date','precipitation'])
+       
+        # Calculate and print out the summary statistics for the June Precipitation DataFrame.
+        june_prcp_df.describe()
+      
+        # Set the index to the date column
+        june_prcp_df.set_index(june_prcp_df['date'], inplace=True)
+       
+        # Plot total precipitation per day in June.
+        june_prcp_df.plot(rot=90)
 
 
 [Back to the Table of Contents](https://github.com/rkaysen63/surfs_up/blob/master/README.md#table-of-contents)
