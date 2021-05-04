@@ -21,14 +21,14 @@
 
 ## Results:
 
-### Temperature Observations
+### Temperature Observations (TOBS)
 
-### June Temperatures - Summary Statistics
+### June TOBS - Summary Statistics
 <p align="left">
   <img src="images/summary_stats_temp_06.png" width="175">
 </p>
 
-### December Temperatures - Summary Statistics
+### December TOBS - Summary Statistics
 <p align="left">
   <img src="images/summary_stats_temp_12.png" width="175">
 </p>
