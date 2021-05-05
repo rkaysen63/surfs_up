@@ -37,7 +37,7 @@
   * The data set only includes records from 2010 through 2017 and all references to temperature observations and statistics are limited to this data set.
   * The temperature distribution is symmetrical in both June and December.  In other words, the mean and median for each month are the same.  In June the mean/median is 75<sup>o</sup>F/75<sup>o</sup>F.  In December, the mean/median is 71<sup>o</sup>F/71<sup>o</sup>F.  This implies that the island is not prone to extreme swings in temperature during those months.
   * The mean temperature in Dec, 71<sup>o</sup>F, is only 4<sup>o</sup>F lower than the mean temperature in June, 75<sup>o</sup>F.  This indicates that the island maintains a fairly consistent temperature throughout the year.
-  * While the minimum temperature in December has dropped as low as 56 <sup>o</sup>F, this occurs infrequently.  The mean temperature in December is 71<sup>o</sup>F with a standard deviation of 4<sup>o</sup>F, indicating that the temperatures in December tend to range between 67<sup>o</sup>F to 75<sup>o</sup>F.
+  * While the minimum temperature in December has dropped as low as 56 <sup>o</sup>F, this occurs infrequently.  The mean temperature in December is 71<sup>o</sup>F with a standard deviation of 4<sup>o</sup>F, indicating that the temperatures in December typically to range between 67<sup>o</sup>F to 75<sup>o</sup>F.
   * The maximum temperature in June is only 2<sup>o</sup>F higher than December.
   * December's temperatures drop a little lower than June's, but the difference is still not that great.  The minimum temperature for December is 56<sup>o</sup>F, where as June's minimum is 8<sup>o</sup>F higher.  
 
