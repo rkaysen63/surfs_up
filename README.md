@@ -56,7 +56,7 @@ Throughout the year, the Island of Oahu maintains consistent and mild temperatur
   <img src="images/summary_stats_prcp_12.png" width="175"> <img src="images/plot_prcp_12.png" width="300">
 </p>
 
-* **Analysis of Results - Precipitation*
+* **Analysis of Results - Precipitation**
 
   * The results show that the precipitation is generally light with a smattering of heavier rainfall.  Median rainfall is 0.02" in June and 0.03" in December.
   * Unlike the temperature distribution, for both months, June and December, the precipitation data is skewed to the right.  The mean precipitation, 0.14 inches in June and 0.22 inches in December, is greater than the 3rd quartile, 0.12 inches in June and 0.15 inches in December.  This indicates that while there are days with a large amount of rainfall, those days are the exception rather than the rule.
