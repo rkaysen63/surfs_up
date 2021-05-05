@@ -42,7 +42,7 @@
   * December's temperatures drop a little lower than June's, but the difference is still not that great.  The minimum TOBS for December is 56<sup>o</sup>F, where as June's minimum is 8<sup>o</sup>F higher.  
 
 ## Summary
-Throughout the year, the Island of Oahu maintains consistent and mild temperatures from the low to mid 70's <sup>o</sup>F that are desirable for beach days and water sports.  But, temperature is not the only consideration.  An abundant amount of rain could have a devestating impact on a surfing business by discouraging all but the most dedicated surfers from hitting the beach. For this reason additional queries for June and December precipitation measurements were retrieved and statistics run.  While large amounts of rainfall have been recorded the stats show that this is the exception rather than the rule.  Median rainfall is 0.02" in June and 0.03" in December. Based on this weather analysis, the proposed business on the Island of Oahu could be a success!
+Throughout the year, the Island of Oahu maintains consistent and mild temperatures from the low to mid 70's <sup>o</sup>F that are desirable for beach days and water sports.  But, temperature is not the only consideration.  An abundant amount of rain could have a devastating impact on a surfing business by discouraging all but the most dedicated surfers from hitting the beach. For this reason, additional queries for June and December precipitation measurements were retrieved and statistics obtained using Pandas `.describe()`.  While over 4" has been recorded in June and 6" in December, the stats show that this is the exception rather than the rule.  Median rainfall is 0.02" in June and 0.03" in December. Based on this weather analysis, the proposed business on the Island of Oahu could be a success!
 
 ### Precipitation
 
@@ -59,8 +59,8 @@ Throughout the year, the Island of Oahu maintains consistent and mild temperatur
 * **Analysis of Results - Precipitation*
 
   * The results show that the precipitation is generally light with a smattering of heavier rainfall.  Median rainfall is 0.02" in June and 0.03" in December.
-  * Unlike the temperature distribution, the precipitation data is skewed right in June and December.  The mean precipitation in both June and December is greater than the 3rd quartile for those months.  This indicates that there are days with a large amount of rainfall, but those days are the exception rather than the rule.
-  * The scatter plot shows that there are few days with over 1 inch of rainfall in either June or December over seven years of data; fewer days with over 2 inches; and almost no days with greater than 3" of rainfall.  
+  * Unlike the temperature distribution, for both months, June and December, the precipitation data is skewed to the right.  The mean precipitation, 0.14 inches in June and 0.22 inches in December, is greater than the 3rd quartile, 0.12 inches in June and 0.15 inches in December.  This indicates that while there are days with a large amount of rainfall, those days are the exception rather than the rule.
+  * The scatter plot shows that for the seven year range of data, there are few days with over 1 inch of rainfall in either June or December; fewer days with over 2 inches; and almost no days with greater than 3" of rainfall.  
 
 ## Code
 * **Code for making a connection to a database and reflecting that database**  
